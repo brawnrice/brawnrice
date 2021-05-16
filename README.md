@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brawnrice
-- 👀 I’m interested in Data Analytics in Politics and History
-- 🌱 I’m currently learning Political Science
+- 👀 I’m interested in Data Analytics in Politics
+- 🌱 I’m currently learning Political Science and History 
 - 💞️ I’m looking to collaborate on projects related to my field of study that look at statistics and social sciences in general
 - 📫 How to reach me - through my LinkedIn https://www.linkedin.com/in/benjamin-chan-8a7847195/
 
